@@ -19,6 +19,7 @@ mobile CHAR(10) NOT NULL UNIQUE,
 status VARCHAR(20)
 );
 
+
  
  CREATE TABLE users(
  	user_name varchar(20) primary key,
