@@ -25,6 +25,7 @@ import com.iiht.evaluation.eloan.service.UserServiceImpl;
 
 
 
+
 @WebServlet({"/user","/validate","/registernewuser","/placeloan","/application1","/editLoanProcess","/registeruser","/register",
 	"/application",	"/trackloan","/editloan","/displaystatus","/logout"})
 public class UserController extends HttpServlet {
